@@ -1,4 +1,6 @@
-﻿# Abstract
+> **Salmos 37:5** "Entregue o seu caminho ao Senhor; confie nele, e ele agirá"
+
+# Abstract
 This article intends with a software development compare two frameworks Object-Relational Mapping (ORM),
 [Hibernate] wrote in Java and it’s a ported version to .Net, [NHibernate]. These frameworks have the objective
 to reduce the complexity between software developed that use the object-oriented and require a relational
